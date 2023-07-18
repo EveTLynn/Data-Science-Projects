@@ -1,2 +1,2 @@
 # Personal_Projects
-My Projects when studying Data Scienc :3
+My Projects when studying Data Science :3
