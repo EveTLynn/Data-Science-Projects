@@ -2,6 +2,8 @@
 
 [link to the program here!](https://www.theforage.com/virtual-internships/Tcz8gTtprzAS4xSoK?ref=dDsCRiLXErJmXtsZq)
 
+[link to the certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_dDsCRiLXErJmXtsZq_1691288193757_completion_certificate.pdf)
+
 The program consists of 4 main tasks:
 1. Business Understanding & Hypothesis Framing
 2. Exploratory Data Analysis
