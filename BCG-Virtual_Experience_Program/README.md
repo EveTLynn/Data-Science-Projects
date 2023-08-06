@@ -51,11 +51,29 @@ The client would like to have a view on whether the 20% discount offer to custom
 
 ### Feature Engineering
 
-
+The steps include:
+- Calculate the Difference between off-peak prices in December and preceding January and its variance:
+  - Average price changes across perods
+  - Max price changes across periods and months
+- Transform datetime data into months
+- Transform categorical data
+- Transform numerical data
+- Remove highly correlated features
 
 ### Modeling
 
-*All the code for task 2 & 3 is in the *.ipynb file*
+This project use Random Forest algorithm to predict the churn customers. The steps include:
+- Modeling
+- Model Evaluation
+- Calculate feature importances
+
+### Discount Impact
+
+This task includes:
+- Calculate the baseline revenue
+- Calculate the benefits and costs if applied discounts
+
+*All the code for task 2 & 3 is in the \*.ipynb file*
 
 ## 4. Findings & Recommendations
 
