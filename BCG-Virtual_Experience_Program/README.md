@@ -10,6 +10,12 @@ The program consists of 4 main tasks:
 3. Feature Engineering & Modelling
 4. Findings & Recommendations
 
+Tools/libraries used:
+1. Programming Language: Python
+2. Libraries: pandas, matplotlib, seaborn, scikit-learn
+3. Algorithms: classification: Random Forest
+4. Skills: EDA, Data Visualization, Machine Learning
+
 *Disclaimer: I take ideas and code from the BCG sample solution (and from Google, of course :3) and put my own take on them.
 This is still in process of refining and improving. It's messy but hey I'm learning and working on it.*
 
