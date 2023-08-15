@@ -14,7 +14,7 @@ Tools/libraries used:
 1. Programming Language: Python
 2. Libraries: pandas, matplotlib, seaborn, scikit-learn
 3. Algorithms: classification: Random Forest
-4. Skills: EDA, Data Visualization, Machine Learning
+4. Skills: Exploratory Data Analysis, Data Visualization, Feature Engineering, Machine Learning
 
 *Disclaimer: I take ideas and code from the BCG sample solution (and from Google, of course :3) and put my own take on them.
 This is still in process of refining and improving. It's messy but hey I'm learning and working on it.*
