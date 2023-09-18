@@ -9,13 +9,14 @@ Description: My final project for VEF Academy's Python for Data Analytics Course
 
 ### 2. PowerCo churn problem and discount impact (July - August 2023)
 
-Location: In this repository 
+Location: In this repository [link here](https://github.com/EveTLynn/Personal_Projects/tree/main/BCG-Virtual_Experience_Program)
+
 
 Description: BCG Data Science Virtual Experience Program on Forage
 
 ### 3. Quantium Virtual Internship - Retail Strategy and Analytics (August 2023 - now)
 
-Location: In this repository 
+Location: In this repository [link here](https://github.com/EveTLynn/Personal_Projects/tree/main/Quatium-Retails-Analytics-Job-Simulation)
 
 Description: Quatium Data Analytics Job Simulation on Forage
 
