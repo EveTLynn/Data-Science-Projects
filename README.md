@@ -13,6 +13,12 @@ Location: In this repository
 
 Description: BCG Data Science Virtual Experience Program on Forage
 
+### 3. Quantium Virtual Internship - Retail Strategy and Analytics (August 2023 - now)
+
+Location: In this repository 
+
+Description: Quatium Data Analytics Job Simulation on Forage
+
 ### 3. 100 days of code (August 2023 - now)
 
 Location: [link here](https://github.com/EveTLynn/100DaysofCodePython)
