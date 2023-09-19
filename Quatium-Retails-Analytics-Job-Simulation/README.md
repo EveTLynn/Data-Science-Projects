@@ -1,5 +1,9 @@
 This project isn't completed and is being updated
-# Quantium Data Analytics Job Simulation
+<h1 align="center"> Quantium Data Analytics Job Simulation - Chip Category Retail Customer Insights and Uplift Testing </h1>
+
+<p align="center">
+  <img src="https://www.thedailymeal.com/img/gallery/the-easy-trick-to-make-your-potato-chip-bowl-look-prettier/intro-1670424312.jpg">
+</p>
 
 [Link to Quantium Job Simulation](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics)\
 [Link to the Cetification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_dDsCRiLXErJmXtsZq_1695113047859_completion_certificate.pdf)\
@@ -21,12 +25,21 @@ Quantium’s retail analytics team and have been approached by a client, the Cat
 - Deep dive into customer segments – define your recommendation from insights, determine which segments we should be targeting, if packet sizes are relative and form an overall conclusion based on your analysis.
 
 ### 1.2 Key findings
+Sales plummeted in mid-August 2018 and mid-June 2019. Sales peaked for a short period before Christmas and there was no sale on the 25th of December. This may due to shops were closed on Christmas day.
 
 ![Total Sales of all store over one year](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/total%20sales%20line%20plot.png)
 
+Older customers spend more on chips with roughly 60% of sales. Mainstream type take up the largest proportion with nearly 40% of overall sales.
+
 ![Sales pie chart]()
 
+- For the Young Singles/Couples, Midage Singles/Couples and Retirees: Mainstream type is the majority.
+- Young Families amd Older Families seemed to prefer to be on budget. OLDER SINGLES/COUPLES have pretty the same sales regardless of member type.
+- Budget Older Families, Mainstream Retirees, Mainstream Young Singles/Couples are 3 group with the most sale
+
 ![Sales bar chart]()
+
+Kettle wins by a big margin as customer's favorites chips. Doritos, Smiths and Pringles also had good sales. The company maybe should concentrate more on these product and drop other low-sale one such as Burger, French, Sunbites, Cheetos and CCs.
 
 ![Brand bar chart]()
 
@@ -45,7 +58,14 @@ The clients want to test the impact of the new trial layouts with a data driven 
 - Collate findings – summarise your findings for each store and provide an recommendation outlining the impact on sales during the trial period.
 
 ### 2.2 Key findings
+Control store is seleted by:
+- Comparing Monthly Sales and Monthly Customer
+- From 2018-07-01 to 2019-06-30 (before the trial period)
+- Based on Pearson’s correlation and Magnitude difference\
+Control stores for Trial stores 77, 86 and 88 is store 233, 155 and 237 respectively
 
+The 3 store saw a statistically significant increase in Total Sales and Number of Customers visit for at least one month during the 3 months trail period of new layout. After the trial the Sales and Number of Customers is not statistically different from the control stores.
+Here is chart of one out of 3 trial stores showing the increase in sales.
 ![Trial vs control store]()
 
 ## [Task 3: Analytics and commercial application](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Task%203%20-%20Analytics%20and%20commercial%20application.pdf)
