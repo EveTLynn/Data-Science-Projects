@@ -1,4 +1,3 @@
-This project isn't completed and is being updated
 <h1 align="center"> Quantium Data Analytics Job Simulation - Chip Category Retail Customer Insights and Uplift Testing </h1>
 
 <p align="center">
@@ -27,21 +26,21 @@ Quantium’s retail analytics team and have been approached by a client, the Cat
 ### 1.2 Key findings
 Sales plummeted in mid-August 2018 and mid-June 2019. Sales peaked for a short period before Christmas and there was no sale on the 25th of December. This may due to shops were closed on Christmas day.
 
-![Total Sales of all store over one year](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/total%20sales%20line%20plot.png)
+![Total Sales of all store over one year](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Charts/total%20sales%20line%20plot.png)
 
 Older customers spend more on chips with roughly 60% of sales. Mainstream type take up the largest proportion with nearly 40% of overall sales.
 
-![Sales pie chart]()
+![Sales pie chart](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Charts/piesales.png)
 
 - For the Young Singles/Couples, Midage Singles/Couples and Retirees: Mainstream type is the majority.
 - Young Families amd Older Families seemed to prefer to be on budget. OLDER SINGLES/COUPLES have pretty the same sales regardless of member type.
 - Budget Older Families, Mainstream Retirees, Mainstream Young Singles/Couples are 3 group with the most sale
 
-![Sales bar chart]()
+![Sales bar chart](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Charts/barsales.png)
 
 Kettle wins by a big margin as customer's favorites chips. Doritos, Smiths and Pringles also had good sales. The company maybe should concentrate more on these product and drop other low-sale one such as Burger, French, Sunbites, Cheetos and CCs.
 
-![Brand bar chart]()
+![Brand bar chart](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Charts/brand.png)
 
 ## [Task 2: Experimentation and uplift testing](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Task%202%20-%20Experimentation%20and%20Uplift%20Testing.ipynb)
 ### 2.1. Background information
@@ -61,12 +60,14 @@ The clients want to test the impact of the new trial layouts with a data driven 
 Control store is seleted by:
 - Comparing Monthly Sales and Monthly Customer
 - From 2018-07-01 to 2019-06-30 (before the trial period)
-- Based on Pearson’s correlation and Magnitude difference\
+- Based on Pearson’s correlation and Magnitude difference
+
 Control stores for Trial stores 77, 86 and 88 is store 233, 155 and 237 respectively
 
-The 3 store saw a statistically significant increase in Total Sales and Number of Customers visit for at least one month during the 3 months trail period of new layout. After the trial the Sales and Number of Customers is not statistically different from the control stores.
-Here is chart of one out of 3 trial stores showing the increase in sales.
-![Trial vs control store]()
+The 3 store saw a statistically significant increase in Total Sales and Number of Customers visit for at least one month during the 3 months trail period of new layout. After the trial the Sales and Number of Customers is not statistically different from the control stores.\
+Here is chart of one out of 3 trial stores showing the sales increase in the trial period.
+
+![Trial vs control store](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Charts/sales77.png)
 
 ## [Task 3: Analytics and commercial application](https://github.com/EveTLynn/Data-Science-Projects/blob/main/Quatium-Retails-Analytics-Job-Simulation/Task%203%20-%20Analytics%20and%20commercial%20application.pdf)
 - Sales before Christmas peaked at 7000 bags of chips. Company need adequate supply and may implement promotions at this period
