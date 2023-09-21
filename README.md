@@ -5,7 +5,7 @@ My Projects for studying Data Science ;3
 
 Location: In this repository [link here](https://github.com/EveTLynn/Personal_Projects/tree/main/Quatium-Retails-Analytics-Job-Simulation)
 
-Description: This project is for Quatium Data Analytics Job Simulation on Forage which involve the following tasks:
+Description: This project is for Quatium Data Analytics Job Simulation on Forage involving the following tasks:
 - Analyzed customer and transaction data to identify customer purchasing behaviors and generate commercial recommendations
 - Used statistical testing to identify benchmark stores that reflected the prior performance of selected trial stores
 - Compared the performance of trial stores and control stores after implementing new store layouts, resulting in significant uplift in sales and customer visits during the trial period
