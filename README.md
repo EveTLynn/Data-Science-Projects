@@ -10,7 +10,7 @@ Description: This project is for Quatium Data Analytics Job Simulation on Forage
 - Used statistical testing to identify benchmark stores that reflected the prior performance of selected trial stores
 - Compared the performance of trial stores and control stores after implementing new store layouts, resulting in significant uplift in sales and customer visits during the trial period
 
-Methodology: Python (EDA and statistical testing), Powerpoint (presentation)
+Tools: Python (EDA and statistical testing), Powerpoint (presentation)
 
 ### 2. PowerCo churn problem and discount impact (July - August 2023)
 
