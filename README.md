@@ -9,7 +9,7 @@ My Projects while pursuing my Data Science passion ;3
 It will utilize Albumentation for augmentation, voc2coco script to prepare data for generating TFRecords, Tensorflow Model Garden (Retina-Resnet architechture).
 I'm a bit stuck now, hopefully I'll finish this soon 🤞
 
-### 2. Pacckt Data Analysis Workshop (December 2023 - now)
+### 2. Packt Data Analysis Workshop (December 2023 - now)
 
 **Location**: [link here](https://github.com/EveTLynn/Packt-Data-Analysis-Workshop)
 
