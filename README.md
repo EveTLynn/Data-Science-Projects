@@ -5,7 +5,7 @@ My Projects while pursuing my Data Science passion ;3
 
 **Location**: [link here](https://github.com/EveTLynn/Blood-Type-Detection)
 
-**Description**: I'm still working on this one. My goal is to build a Tensorflow object detection model to identified blood cell from microscopic images.
+**Description**: I'm still working on this one. My goal is to build a Tensorflow object detection model to identify blood cell from microscopic images.
 It will utilize Albumentation for augmentation, voc2coco script to prepare data for generating TFRecords, Tensorflow Model Garden (Retina-Resnet architechture).
 I'm a bit stuck now, hopefully I'll finish this soon 🤞
 
