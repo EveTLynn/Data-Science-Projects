@@ -5,9 +5,7 @@ My Projects while pursuing my Data Science passion ;3
 
 **Location**: [link here](https://github.com/EveTLynn/Blood-Type-Detection)
 
-**Description**: I'm still working on this one. My goal is to build a Tensorflow object detection model to identify blood cell from microscopic images.
-It will utilize Albumentation for augmentation, voc2coco script to prepare data for generating TFRecords, Tensorflow Model Garden (Retina-Resnet architechture).
-I'm a bit stuck now, hopefully I'll finish this soon 🤞
+**Description**: This project implements fine-tuning of a RetinaNet model with a ResNet-50 backbone from the [TensorFlow Model Garden (TFM)](https://github.com/tensorflow/models) for detecting three types of blood cells (Red Blood Cells (RBCs), White Blood Cells (WBCs), and Platelets) in microscopic images from the [BCCD dataset](https://github.com/Shenggan/BCCD_Dataset).
 
 ### 2. Packt Data Analysis Workshop (December 2023 - now)
 
