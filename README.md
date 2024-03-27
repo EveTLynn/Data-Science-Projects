@@ -1,7 +1,7 @@
 # Personal Projects
 My Projects while pursuing my Data Science passion ;3
 
-### 1. Blood Cell Detection 🩸 (November 2023 - now)
+### 1. Blood Cell Detection 🩸 (October 2023 - March 2024)
 
 **Location**: [link here](https://github.com/EveTLynn/Blood-Type-Detection)
 
